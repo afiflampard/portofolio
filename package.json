@@ -3,12 +3,10 @@
   "private": true,
   "version": "0.1.0",
   "scripts": {
+    "dev": "react-scripts start",
+    "start": "serve -s build",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
-    "eject": "react-scripts eject",
-    "start": "react-scripts start",
-    "test": "react-scripts test"
+    "heroku-postbuild": "npm run build"
   },
   "dependencies": {
     "@apollo/react-hooks": "^3.1.3",
