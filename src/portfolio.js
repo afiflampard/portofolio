@@ -32,12 +32,11 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link:
-      "https://www.youtube.com/channel/UCsuf4EALm8beUsBSJuMLxeA",
+    link: "https://www.youtube.com/channel/UCsuf4EALm8beUsBSJuMLxeA",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
- 
+
   /*
   {
     name: "Stackoverflow",
@@ -46,7 +45,7 @@ const socialMediaLinks = [
     backgroundColor: "#FE7A16", // Reference https://simpleicons.org/?q=twitter
   },
   */
- 
+
   {
     name: "Instagram",
     link: "https://www.instagram.com/afif_musyayyidin/",
@@ -371,7 +370,7 @@ const tools = {
       Stack: "Google Colab",
       progressPercentage: "80%",
     },
-   
+
     {
       Stack: "Android Studio", //Insert stack or technology you have experience in
       progressPercentage: "60%", //Insert relative proficiency in percentage
@@ -457,10 +456,7 @@ const degrees = {
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, OOP, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning and Full Stack Development.",
-        "⚡ Placed 4th in my class.",
         "⚡ Dean's List.",
-        "⚡ I was selected for ITEE Training Program which comprised of 20 students in the CSE department.",
-        "⚡ Elected as the team leader in all the group projects.",
       ],
       website_link: "https://ub.ac.id/",
     },
@@ -611,16 +607,14 @@ const experience = {
     {
       title: "Work",
       experiences: [
-        
-		{
+        {
           title: "Backend Developer",
           company: "PT Lanius Inovasi Indonesia",
           //company_url: "https://legatohealthtech.com/",
           logo_path: "lKaTYJG0_400x400.png",
           duration: "November 2020 - January 2021",
           location: "Surabaya, Indonesia",
-          description:
-            "I am working on Backend Developer, using Node JS/TS",
+          description: "I am working on Backend Developer, using Node JS/TS",
           color: "#0879bf",
         },
         {
@@ -634,14 +628,11 @@ const experience = {
             "I am working on Backend Developer, using Golang and Node JS ",
           color: "#9b1578",
         },
-        
-		
       ],
     },
     {
       title: "Internships",
       experiences: [
-        
         {
           title: "Data Science",
           company: "PT Come (Global Tekno Kreasi)",
@@ -649,11 +640,9 @@ const experience = {
           logo_path: "logo-come.png",
           duration: "Jun 2020 - August 2020",
           location: "Jakarta, Indonesia",
-          description:
-            "I have worked on project of predicting using API",
+          description: "I have worked on project of predicting using API",
           color: "#ee3c26",
         },
-        
       ],
     },
     {
