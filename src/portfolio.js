@@ -61,7 +61,6 @@ const skills = {
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
       ],
       softwareSkills: [
         {
@@ -100,9 +99,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using Angular and React",
+        "⚡ Building resposive website front end using React",
         "⚡ Implementing secure access to database",
-        "⚡ Creating application backend in .Net Core",
+        "⚡ Creating application backend in Javascript and Golang",
       ],
       softwareSkills: [
         {
@@ -153,20 +152,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:npm",
           style: {
             color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Angular",
-          fontAwesomeClassname: "simple-icons:angular",
-          style: {
-            color: "#DD0031",
-          },
-        },
-        {
-          skillName: ".Net Core",
-          fontAwesomeClassname: "mdi:dot-net",
-          style: {
-            color: "#5C2D91",
           },
         },
       ],
@@ -454,9 +439,8 @@ const degrees = {
       duration: "August 2017 - Feb 2021",
       cgpa: "3.73 / 4.00",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, OOP, DBMS, OS, CA, AI etc.",
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, OOP, Functional Programming, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning and Full Stack Development.",
-        "⚡ Dean's List.",
       ],
       website_link: "https://ub.ac.id/",
     },
