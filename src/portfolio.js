@@ -13,7 +13,7 @@ const greeting = {
   subTitle:
     "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
   resumeLink:
-    "https://drive.google.com/file/d/1enlelVBCzHJ4wA384i31Oe2AFpd9adau/view?usp=sharing",
+    "https://drive.google.com/file/d/1uivA6u4K_fro7rwdqFCUy6bSvZAbFmL2/view?usp=sharing",
   portfolio_repository: "https://github.com/afiflampard/",
 };
 
@@ -220,45 +220,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:eclipseide",
           style: {
             color: "#2C2255",
-          },
-        },
-      ],
-    },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
           },
         },
       ],
@@ -610,6 +571,28 @@ const experience = {
           location: "Surabaya, Indonesia",
           description:
             "I am working on Backend Developer, using Golang and Node JS ",
+          color: "#9b1578",
+        },
+        {
+          title: "Backend Developer",
+          company: "PT Ada Ide Langsung Jalan (Smartlink)",
+          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "smartlink.jpg",
+          duration: "November 2021 - April 2022",
+          location: "Malang, Indonesia",
+          description:
+            "I am working on Backend Developer, using Golang, Node JS, Nats, ElasticSearch, Maxwell",
+          color: "#9b1578",
+        },
+        {
+          title: "Backend Developer",
+          company: "PT Tokopedia",
+          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "tokopedia.png",
+          duration: "April 2022 - Present",
+          location: "Surabaya, Indonesia",
+          description:
+            "I am working on Backend Developer, using Golang, Python, Sql",
           color: "#9b1578",
         },
       ],
